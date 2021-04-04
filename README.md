@@ -11,7 +11,7 @@ After 2 weeks where I:
 - Flipped my algorithm inside-out
 - Reached the 640K limit of MS-DOS
 
-But I was able to multiply two **500,000** digits numbers in less than 24 hours of computation.
+I was able to multiply two **500,000** digits numbers in less than 24 hours of computation.
 
 In 1995, I used a Beta of Windows 95 to push that limit and I also made a Windows MegaCalc where the multiplications were interruptible and restartable.
 
@@ -24,9 +24,9 @@ Since then, I have implemented MegaCalc in:
 ## Swift version
 ### Directory: Calc1-swift
 The Swift version has the following properties:
-- Uses a simple Mac UI
-- Shows good examples of units tests
-- Uses Xcode to run Unit tests and UI tests
+- Uses a simple Mac UI.
+- Shows good example of TDD (Test Driven Development) where you build your tests before creating the code.
+- Uses Xcode to run Unit tests and UI tests.
 
 ---
 by Francois Robert 
