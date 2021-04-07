@@ -5,7 +5,7 @@
 //  Created by Francois Robert on 2016-11-22.
 //  Copyright © 2016 Pixtolab. All rights reserved.
 //
-//  The IntegerList is a data structure that hold the content of a number and that can be implemented in multiple Languages.
+//  IntegerList is a data structure that holds a list of numbers and that can be implemented in multiple Languages.
 
 import Foundation
 

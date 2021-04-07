@@ -5,6 +5,8 @@
 //  Created by Francois Robert on 2016-11-23.
 //  Copyright © 2016 Pixtolab. All rights reserved.
 //
+//  BigInteger represent an Integer number.
+//  The full number is represented as a list of 8 digits integers. We call a 8 digits integer value an Octoble
 
 import Foundation
 

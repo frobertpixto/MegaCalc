@@ -5,7 +5,8 @@
 //  Created by Francois Robert on 2016-11-22.
 //  Copyright © 2016 Pixtolab. All rights reserved.
 //
-
+//  Simple UI for a Calculator
+//
 import Cocoa
 
 struct OperationData
