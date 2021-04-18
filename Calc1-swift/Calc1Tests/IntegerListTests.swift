@@ -34,10 +34,12 @@ class IntegerListTests: XCTestCase {
 		let integerList = IntegerList()
 		_ = integerList.add(123); _ = integerList.add(345)
 		
+		XCTAssertEqual(integerList.count, 2)
 		XCTAssertEqual(integerList.description, "123;345")
 		
 		_ = integerList.add(1); _ = integerList.add(2)
 
+		XCTAssertEqual(integerList.count, 4)
 		XCTAssertEqual(integerList.description, "123;345;1;2")
 		
 		integerList.empty()
